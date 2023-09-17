@@ -1,0 +1,12 @@
+langchain
+streamlit_chat
+deep_translator
+transformers
+streamlit_custom_notification_box
+annoy
+tensorflow
+tensorflow_hub
+openai
+sentencepiece
+tiktoken
+faiss-cpu
